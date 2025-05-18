@@ -36,3 +36,6 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# native wind tailwindcss
+nativewind-env.d.ts

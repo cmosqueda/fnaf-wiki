@@ -1,12 +1,10 @@
-// Character screen
-
 import { Text, View } from "react-native";
 
-export default function Characters() {
+export default function Games() {
   return (
     <>
       <View className="flex flex-grow items-center justify-center align-middle">
-        <Text>This is characters page</Text>
+        <Text>This is the games page</Text>
       </View>
     </>
   );
